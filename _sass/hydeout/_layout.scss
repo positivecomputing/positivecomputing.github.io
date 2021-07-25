@@ -277,7 +277,8 @@ body {
 }
 
 #sidebar-nav-links {
-  flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    margin-bottom: $heading-spacing-edit;
 }
 
 #sidebar-icon-links {
@@ -293,8 +294,9 @@ body {
 }
 
 #sidebar nav > * {
-  display: block;
-  line-height: 1.75;
+    display: block;
+    line-height: 1.75;
+    font-size: 1.5rem;
 }
 
 #sidebar nav > .icon {
