@@ -1,5 +1,4 @@
-I"I<p><br /></p>
-<h1 id="-1-persuasive-interaction-software-"><b> 1. Persuasive Interaction Software </b></h1>
+I"�<h1 id="-1-persuasive-interaction-software-"><b> 1. Persuasive Interaction Software </b></h1>
 <p><br /></p>
 
 <h2 id="easytrack-"><b>EasyTrack</b> <a href="https://github.com/Qobiljon/ET_Dashboard"><img src="github.png" alt="Github Page" style="float:right;margin-right:20px;width:35px;height:35px;" /></a></h2>
@@ -18,19 +17,41 @@
 
 <ul>
   <li>Link for APK <a href="https://drive.google.com/drive/folders/1_VCKXEMnD6TNwi1le5KSBGUek9X2CcEg" style="color:#0097A7;">(Download)</a></li>
-  <li>This app integrates the positive computing services developed through this project. 
-  <br />
+  <li>
+    <p>This app integrates the positive computing services developed through this project.</p>
+
     <ul>
       <li><big><b>MindScope</b></big>
         <ul>
           <li>MindScope is an application that helps users to manage their daily stress level by predicting the user’s stress level, showing it with three conditions (e.g., stress level low, little high and high) according to the collected data, and providing analysis on a daily basis. The stress prediction accuracy is further improved with the feedback from the users.</li>
         </ul>
       </li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li><br /></li>
+      <li><big><b>FocusAid</b></big>
+        <ul>
+          <li>FocusAid allows users to generate distraction management rules. Users can specify context conditions through this app where they perceive smartphones as distracting and designate actions to handle distraction in that condition.</li>
+        </ul>
+      </li>
+      <li><big><b>GoldenTime</b></big>
+        <ul>
+          <li>GoldenTime is an app that promotes self-regulated usage behavior via system-driven proactive timeboxing and micro-financial incentives framed as gain or loss for behavioral reinforcement. System-driven timeboxing calculates the user’s accumulated usage time per hour. If the usage time is less than 10 mins, the app provides users with incentives (i.e., micro-incentive) as a reward for phone regulation.</li>
+        </ul>
+      </li>
+      <li><big><b>BeActive</b></big>
+        <ul>
+          <li>BeActive is a mobile health intervention app that aims to improve users’ sedentary habits for long periods of time. The app provides users with JIT(Just-In-Time) alarm messages to promote a short break when their sedentary status lasts 50 minutes. If users follow the guide, the system gives them an incentive as a reward.</li>
+        </ul>
+      </li>
+      <li><big><b>MyButler</b></big>
+        <ul>
+          <li>MyButler is an app for a pair of Android users that aims to lower the pressure for an immediate reply and reduce unnecessary interruptions by untimely notifications. It allows a pair of users to privately share their status with one another and for the message sender to control the message notification based on the shared status of the other.</li>
+        </ul>
+      </li>
+      <li><big><b>RoutinAid</b></big>
+        <ul>
+          <li>RoutinAid is a gamified smartphone app for managing daily routines of adolescents with Autism Spectrum Disorder (ASD). Users can experience more diverse visual rewards (e.g., village development, character acquisition) as they achieve more routines.
+<br /></li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>

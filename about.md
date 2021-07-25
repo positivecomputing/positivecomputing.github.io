@@ -4,8 +4,6 @@ title: Download
 sidebar_link: true
 ---
 
-
-<br/>
 # <b> 1. Persuasive Interaction Software </b>
 <br/>
 
