@@ -17,10 +17,9 @@ sidebar_link: true
 # <b> 2. Integrated Positive Computing Service System </b>
 <br/>
 
-## <b>Integrated Application</b> <a href = "https://github.com/alice-iceberg/Positive-Computing-Hub" ><img src="github.png" alt="Github Page" style="float:right;margin-right:20px;width:35px;height:35px;" ></a>
+## <b>Positive Computing HUB app</b> <a href = "https://github.com/alice-iceberg/Positive-Computing-Hub" ><img src="github.png" alt="Github Page" style="float:right;margin-right:20px;width:35px;height:35px;" ></a>
 
-  * Link for APK <a href = "https://drive.google.com/drive/folders/1_VCKXEMnD6TNwi1le5KSBGUek9X2CcEg" style ="color:#0097A7;">(Download)</a>
-  * This app integrates the positive computing services developed through this project. 
+  * This app integrates the positive computing services developed through this project. Download the app from the App store <a href = "https://play.google.com/store/apps/details?id=com.imcl.dtx" style ="color:#0097A7;">(Download)</a>
 
       * <big><b>MindScope</b></big>
           * MindScope is an application that helps users to manage their daily stress level by predicting the user’s stress level, showing it with three conditions (e.g., stress level low, little high and high) according to the collected data, and providing analysis on a daily basis. The stress prediction accuracy is further improved with the feedback from the users.  
