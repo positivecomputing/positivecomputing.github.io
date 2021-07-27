@@ -4,7 +4,7 @@ title: Download
 sidebar_link: true
 ---
 
-# <b> 1. Persuasive Interaction Software </b>
+# <b> 1. Persuasive Interaction Platform Software </b>
 <br/>
 
 ## <b>EasyTrack</b> <a href = "https://github.com/Qobiljon/ET_Dashboard" ><img src="github.png" alt="Github Page" style="float:right;margin-right:20px;width:35px;height:35px;" ></a>
@@ -53,6 +53,6 @@ sidebar_link: true
 
 <hr color="gray" noshade/>
 
-# <b>4. Design Guidelines for Persuasive Interaction </b> <a href = "https://twkim24.notion.site/Design-guidelines-for-persuasive-interaction-service-system-design-abf585bbd2834ccbb2ce23c897514c72" ><img src="notion.png" alt="Notion Page" style="float:right;margin-right:20px;width:40px;height:40px;" ></a><br/>
+# <b> 4. Design Guidelines for Persuasive Interaction </b> <a href = "https://twkim24.notion.site/Design-guidelines-for-persuasive-interaction-service-system-design-abf585bbd2834ccbb2ce23c897514c72" ><img src="notion.png" alt="Notion Page" style="float:right;margin-right:20px;width:40px;height:40px;" ></a><br/>
   * Guidelines cover methods, practices, and examples for designing persuasive interactions. Our recommendations are based on the research result from the Next-Generation Information Computing Development Program.
   * Guidelines consist of two parts: 1) Persuasive Interaction Design Guidelines for Stress Management 2) Guidelines for Persuasive Interaction Components and Experimentation. These guidelines may help design ICT services, test the effects of ICT services, or apply persuasive interaction components into ICT services.
