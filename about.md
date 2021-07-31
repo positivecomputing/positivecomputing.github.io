@@ -43,7 +43,7 @@ sidebar_link: true
   * We collected in-situ user context and the corresponding smartphone distraction experiences. We implemented an mobile esm app that asks users to report their current contexts (i.e., their locations and activities) and to what extent they perceived smartphone distraction. During three weeks of the data collection session, we collected 9,180 ESM responses from 34 participants.
 <br/><br/>
 
-## <b>A dataset for the in-situ contexts where users perceive smartphone distractions</b> <a href = "https://github.com/Ajou-HCI-Lab/MindScope" ><img src="github.png" alt="Github Page" style="float:right;margin-right:20px;width:px35;height:35px;" ></a>
+## <b>Data features from Android smartphones for stress prediction</b> <a href = "https://github.com/Ajou-HCI-Lab/MindScope" ><img src="github.png" alt="Github Page" style="float:right;margin-right:20px;width:px35;height:35px;" ></a>
   * We extracted 29 features of the data from the Android smartphone application (MindScope). The data were collected from 36 participants for 27 days, four times a day. The features and data were used to predict stress levels.
 <br/><br/>
 
